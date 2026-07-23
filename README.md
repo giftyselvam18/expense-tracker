@@ -12,7 +12,7 @@ A simple REST API for managing expenses using **Node.js**, **Express.js**, and *
 ## Tech Stack
 - Node.js
 - Express.js
-- SQL Server
+- MongoDB
 
 ## Run the Project
 
